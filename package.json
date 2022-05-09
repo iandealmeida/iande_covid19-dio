@@ -11,7 +11,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "styled-components": "^5.1.0"
+    "styled-components": "^5.3.5"
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -35,6 +35,6 @@
   },
   "devDependencies": {
     "customize-cra": "^0.9.1",
-    "react-app-rewired": "^2.1.5"
+    "react-app-rewired": "^2.2.1"
   }
 }
