@@ -14,8 +14,8 @@
     "styled-components": "^5.3.5"
   },
   "scripts": {
-    "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "eslint": "eslint --ext .jsx,.js src"
   },
   "eslintConfig": {
