@@ -3,7 +3,8 @@
 
 Como parte do bootcamp Carrefour Web Developer,  acompanhamos o desenvolvimento de uma aplicação com React que retorna dados reais sobre a COVID-19.
 
-Página hospedada: https://iande-covid-panel.netlify.app
+### Página hospedada:
+https://iande-covid-panel.netlify.app
 
 ### Modificações:
 Decidi implementar as seguintes modificações: 
@@ -13,9 +14,10 @@ Decidi implementar as seguintes modificações:
 - Alterei a largura dos cards para um layout mais harmônico e simétrico
 - Alterei a imagem de fundo.
 
-
+### Aplicação original:
 ![Aplicação original](https://github.com/iandealmeida/iande_covid19-dio/blob/master/src/assets/images/app_prof.jpg)
 
+### Versão com minhas modificações:
 ![Versão com mnhas modificações](https://github.com/iandealmeida/iande_covid19-dio/blob/master/src/assets/images/app_iande.jpg)
 
 
